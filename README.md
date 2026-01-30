@@ -2,7 +2,7 @@
 
 Simon Game is a classic memory-based game built using **HTML, CSS, and JavaScript**. The game tests the player’s memory by generating a sequence of colors that the user must repeat in the correct order. With each successful level, the sequence becomes longer and more challenging.
 
-## Live demo:
+## Live demo: https://reeyasejwal.github.io/simon_game/
 
 ## 🚀 Features
 - Interactive and responsive gameplay  
